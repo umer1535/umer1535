@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umer
 - 👀 I’m interested in Various software engineering jobs
-- 🌱 I’m currently learning reactjs, SEO, Abbout Databases and getting hands on some other usefull skills
+- 🌱 I’m currently learning reactjs, SEO, About Databases and getting hands on some other usefull skills
 - 💞️ I’m looking to collaborate on your project or how you need me to work together to achieve out goals
 - 📫 How to reach me Text me
 - 😄 Pronouns: Dont know what this even means :(
